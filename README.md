@@ -229,4 +229,4 @@ python execution/verify_knowledge_retention.py --sector <sector-name>
 
 ---
 
-*Built with [Master-AG](https://github.com/ShasanJain/Master_AG) · Powered by Jack (Antigravity IDE)*
+*Built with [Master-AG](https://github.com/ShasanJain/Master_AG) · Powered by Jack (Antigravity IDE) · Supervised by Shasan Jain (Human)*
