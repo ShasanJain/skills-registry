@@ -1,0 +1,19 @@
+---
+name: knowledge-graph-semantic-systems
+description: Use when executing knowledge graph semantic systems protocols within the engineering sector.
+---
+
+# Knowledge Graph Semantic Systems: Execution Protocol
+
+## ⚙️ Overview
+This protocol defines the exact standards for implementing Knowledge Graph Semantic Systems. By following this strict operational pattern, the engine guarantees deterministic execution, high performance, and complete adherence to all architectural guardrails established by the system design.
+
+# Knowledge Graph & Semantic Systems
+
+- Knowledge graph construction and relationship modeling
+- Entity linking and resolution across multiple data sources
+- Ontology development and semantic schema design
+- Graph-based reasoning and inference systems
+- Temporal knowledge management and versioning
+- Multi-domain knowledge integration and alignment
+- Semantic query optimization and path finding

@@ -1,0 +1,40 @@
+# Skill: Execution Protocol
+
+## ⚙️ Overview
+This protocol defines the exact standards for implementing Skill. By following this strict operational pattern, the engine guarantees deterministic execution, high performance, and complete adherence to all architectural guardrails established by the system design.
+
+---
+version: 4.1.0-fractal
+name: protocol-reverse-engineering
+description: Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network traffic, understanding proprietary protocols, or debugging network communication.
+---
+
+# Protocol Reverse Engineering
+
+Comprehensive techniques for capturing, analyzing, and documenting network protocols for security research, interoperability, and debugging.
+
+## Use this skill when
+
+- Working on protocol reverse engineering tasks or workflows
+- Needing guidance, best practices, or checklists for protocol reverse engineering
+
+## Do not use this skill when
+
+- The task is unrelated to protocol reverse engineering
+- You need a different domain or tool outside this scope
+
+## Instructions
+
+- Clarify goals, constraints, and required inputs.
+- Apply relevant best practices and validate outcomes.
+- Provide actionable steps and verification.
+- If detailed examples are required, open `resources/implementation-playbook.md`.
+
+## Resources
+
+- `resources/implementation-playbook.md` for detailed patterns and examples.
+
+
+## 🧠 Knowledge Modules (Fractal Skills)
+
+### 1. [implementation-playbook](./sub-skills/implementation-playbook.md)
